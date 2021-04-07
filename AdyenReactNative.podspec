@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
 
   s.dependency "React"
   s.dependency "Adyen","3.8.0"
-  s.dependency "Adyen/ApplePay","3.8.0
+  s.dependency "Adyen/ApplePay","3.8.0"
 end
